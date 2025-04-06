@@ -141,16 +141,17 @@ body {
 
 #hero h4 {
   padding-bottom: 15px;
+  color: white;
 }
 
 #hero h1 {
-  color: #088178;
+  color: white;
 }
 
 #hero button {
   background-image: url("img/button.png");
   background-color: transparent;
-  color: #088178;
+  color: white;
   border: 0;
   padding: 14px 80px 14px 65px;
   background-repeat: no-repeat;
@@ -158,6 +159,15 @@ body {
   font-weight: 700;
   font-size: 15px;
 }
+
+/* Logo */
+.small-logo {
+  width: 60px;
+  height: auto;
+  display: block;
+}
+
+
 
 /*Shop Page*/
 #page-header{
